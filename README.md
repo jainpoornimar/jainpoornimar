@@ -31,5 +31,5 @@
 
 ## 📫 Let’s Connect
 - 📧 Email: jainpoornimar@gmail.com
-- 🌐 Portfolio: https://neopoulx.in
-- 💼 LinkedIn: (add later)
+- 💼 LinkedIn: https://www.linkedin.com/in/poornima-r-jain
+ 
