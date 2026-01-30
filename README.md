@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Poornima Jain 👋
 
-<!--
-**jainpoornimar/jainpoornimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer with 1.4+ years of hands-on experience building and maintaining production-grade web applications.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- ⚛️ Frontend & Full Stack Developer
+- 🧩 Strong in React.js, Redux, JavaScript
+- 🔧 Backend experience with C# / .NET & REST APIs
+- 🚨 Rapid Response Team (RRT) Lead for production issues
+- 📊 Passionate about performance optimization & clean UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Redux, JavaScript (ES6+), HTML5, CSS3
+- **Backend:** .NET (C#), REST APIs, Windows Services
+- **Database:** MS SQL
+- **Tools:** Git, Browser DevTools, Power BI
+
+## 🚀 Experience Highlights
+- Built reusable React components for live production systems
+- Reduced recurring frontend-backend issues by 90%
+- Handled live deployments, hotfixes, and incident resolution
+- Collaborated with product, backend, QA, and clients
+
+## 📂 Featured Projects
+- **Neopoulx** – Poultry Management System  
+  🔗 https://neopoulx.in
+
+- **AR Auto Oasis** – Augmented Reality Car Showcase  
+- **Online Shopping Management System**
+- **Personal Portfolio Website**
+
+## 📫 Let’s Connect
+- 📧 Email: jainpoornimar@gmail.com
+- 🌐 Portfolio: https://neopoulx.in
+- 💼 LinkedIn: (add later)
