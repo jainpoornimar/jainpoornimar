@@ -113,7 +113,7 @@ Some experiences I'm proud of:
 - 🎤 Hosted seminars, technical sessions, workshops, and public events, confidently engaging audiences and simplifying complex topics.
 - 🤝 Organized and managed community events, strengthening teamwork, leadership, and event management skills through large-scale coordination.
 - ✍️ Passionately share knowledge through an **experience-driven technical blog**, writing practical articles on software engineering, production challenges, system design, and career growth.
-- 🏅 Earned **250+ certifications** across software development, cloud technologies, leadership, communication, innovation, and professional development, reflecting a strong commitment to lifelong learning.
+- 🏅 Earned **250+ certifications** across  leadership, communication, innovation, and professional development, reflecting a strong commitment to lifelong learning.
 
 I enjoy connecting with people as much as I enjoy solving technical problems.
 
