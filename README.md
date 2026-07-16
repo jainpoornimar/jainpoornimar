@@ -1,148 +1,269 @@
-# Hi, I'm Poornima Jain 👋
+# 👋 Hi, I'm Poornima Jain
 
-<h3 align="center">Full Stack Software Developer | ASP.NET Core | React.js | Production Engineering</h3>
+<h3 align="center">
+Full Stack Software Developer • Production Engineer • Technical Writer • Community Leader
+</h3>
 
 <p align="center">
-  <a href="https://github.com/jainpoornimar">
-    <img src="https://komarev.com/ghpvc/?username=jainpoornimar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+
+Building enterprise software, solving production challenges, and sharing knowledge through real-world engineering experiences.
+
+</p>
+
+<p align="center">
+<a href="https://github.com/jainpoornimar">
+<img src="https://komarev.com/ghpvc/?username=jainpoornimar&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-💻 Full-stack Software Developer with **1.7 years of hands-on production experience** building and scaling enterprise applications using **ASP.NET Core, C#, React.js, and SQL Server**.
+I'm a **Full Stack Software Developer** with **1.8 years of enterprise production experience**, building scalable applications using **ASP.NET Core, C#, React.js, SQL Server, and modern web technologies**.
 
-* 🔭 Currently focused on **ASP.NET Core, System Design, and Microservices**
-* 🌱 Exploring **Docker, Clean Architecture, and Cloud Technologies**
-* 🚀 Experienced in designing and developing **RESTful APIs and production-grade applications**
-* 🛠️ Built and delivered live commercial platforms including **Neopoulx** and **Virudhi**
-* 🚨 Former **Rapid Response Team Lead**, responsible for critical production incidents and live deployments
-* 💡 Passionate about backend engineering, scalable systems, and clean code practices
+What excites me most about software engineering isn't just writing code—it's understanding problems, designing practical solutions, collaborating with people, and delivering software that creates real business value. From developing enterprise applications and secure APIs to resolving critical production incidents, I enjoy taking ownership of challenges and continuously improving the systems I work on.
 
----
+Having worked in fast-paced production environments, I've learned that great engineering is about much more than technology. It requires analytical thinking, effective communication, adaptability, and the ability to stay calm under pressure. These experiences have strengthened my ability to work across teams, communicate with stakeholders, prioritize effectively, and make informed decisions when it matters most.
 
-## 🚀 Experience Highlights
+Beyond development, I'm passionate about **technical writing, knowledge sharing, and community building**. I enjoy breaking down complex technical concepts into practical, easy-to-understand insights through my experience-driven blog, helping others learn from real-world engineering experiences rather than just theory.
 
-✔️ Led a Rapid Response Team (RRT) of **8 engineers** and reduced recurring production failures by **90%**
+One of my greatest strengths is my ability to bridge the gap between technical and non-technical audiences. Whether I'm collaborating with developers, discussing requirements with clients, mentoring students, leading technical discussions, or speaking at events, I enjoy making technology approachable and fostering meaningful collaboration.
 
-✔️ Designed and developed **ASP.NET Core APIs** for enterprise applications
+I also thrive in environments that encourage leadership and continuous learning. I genuinely enjoy mentoring, organizing events, speaking on stage, collaborating with diverse teams, and creating opportunities for people to learn and grow together. These experiences have shaped me into someone who values empathy, teamwork, and lifelong learning as much as technical excellence.
 
-✔️ Built automated **Windows Services** for machine-level data ingestion and synchronization
-
-✔️ Delivered real-time manufacturing dashboards tracking **OEE metrics** across multiple production lines
-
-✔️ Managed production deployments, hotfixes, monitoring, and incident resolution
+I believe the best software engineers are not only skilled builders but also effective communicators, lifelong learners, and dependable teammates who inspire confidence through both their technical expertise and the way they work with people. That's the kind of engineer I strive to be every day.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 What I Do
 
-### Backend
+### 💻 Software Engineering
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge)
-![Windows Services](https://img.shields.io/badge/Windows_Services-0078D6?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens)
+- Develop enterprise-grade full stack applications
+- Build secure REST APIs using ASP.NET Core
+- Design responsive React applications
+- Optimize SQL Server databases
+- Implement JWT Authentication & Authorization
+- Develop Windows Services & background jobs
+- Debug and resolve production issues
 
-### Frontend
+### 🚨 Production Engineering
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+Former **Rapid Response Team (RRT) Lead**
 
-### Database
+Responsible for:
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver)
-![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-4479A1?style=for-the-badge)
+- Leading critical production incidents
+- Root cause analysis
+- Hotfix deployments
+- Client communication
+- Monitoring live systems
+- Cross-team coordination
 
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi)
-
+🏆 Reduced recurring production issues by **90%** while leading a team of **8 engineers**.
 
 ---
 
-## 📂 Featured Projects
+# ✍️ Technical Writing
 
-### 🐔 Neopoulx – Advanced Poultry Management Platform
+One of my favorite ways of learning is by teaching.
 
-Production-grade multi-tenant SaaS platform for poultry farm operations.
+Through my portfolio's **Experience-Driven Blog**, I write practical articles covering:
 
-✨ Features:
+- ASP.NET Core
+- React.js
+- System Design
+- Authentication & Security
+- SQL Optimization
+- Production Debugging
+- Software Architecture
+- Career Growth
+- Engineering Best Practices
 
-* Multi-role authentication & authorization
-* Real-time operational dashboards
-* Farm and flock management
-* Secure session handling
-* Live production deployment
-
-🔗 Live Demo: https://neopoulx.in
-
-**Tech Stack:** React.js, Redux, REST APIs, JavaScript
-
----
-
-### 🌿 Virudhi – Herbal Healing & Wellness Platform
-
-Full-stack healthcare discovery platform built using ASP.NET Core and React.
-
-✨ Features:
-
-* ASP.NET Core REST APIs
-* Admin Panel with complete CRUD functionality
-* Role-based authentication and authorization
-* Personalized remedy recommendations
-* SQL Server backend integration
-
-🔗 Live Demo: https://virudhi.netlify.app
-
-**Tech Stack:** ASP.NET Core Web API, React.js, SQL Server
+Rather than repeating documentation, I focus on explaining concepts through practical experiences and real-world examples.
 
 ---
 
-### 🚗 AR Auto Oasis – Augmented Reality Car Showcase
+# 🌱 Beyond Coding
 
-AR-powered web application for visualizing 3D vehicle models in real-world environments.
+Technology is only one part of who I am.
 
-🔗 Repository: https://github.com/jainpoornimar/AR-Auto-Oasis
+I'm equally passionate about:
 
-**Tech Stack:** Unity3D, JavaScript, Bootstrap, PHP
+🎤 Public Speaking
 
+🤝 Community Building
 
+🎓 Student Mentoring
 
-## 📊 GitHub Stats
+🏛 Technical Event Management
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainpoornimar&show_icons=true&theme=tokyonight" />
-</p> -->
+🧠 Knowledge Sharing
+
+📖 Continuous Learning
+
+Some experiences I'm proud of:
+
+- 🇮🇳 Represented **Karnataka** in the **Ek Bharat Shreshtha Bharat National Youth Exchange Program**, promoting cultural exchange, leadership, and national integration.
+- 🏆 **Two-time State-Level Elocution Competition Winner**, recognized for excellence in public speaking, critical thinking, and persuasive communication.
+- 🔬 Represented **Karnataka** at the **National Children's Science Congress (NCSC) National Science Seminar**, presenting scientific research and innovation on a national platform.
+- 🎯 Led student engagement initiatives and coordinated technical activities across multiple colleges, fostering collaboration and participation.
+- 🏫 Contributed to **technical hiring, campus outreach, and recruitment drives**, interacting with students and helping connect talent with industry opportunities.
+- 🎤 Hosted seminars, technical sessions, workshops, and public events, confidently engaging audiences and simplifying complex topics.
+- 🤝 Organized and managed community events, strengthening teamwork, leadership, and event management skills through large-scale coordination.
+- ✍️ Passionately share knowledge through an **experience-driven technical blog**, writing practical articles on software engineering, production challenges, system design, and career growth.
+- 🏅 Earned **250+ certifications** across software development, cloud technologies, leadership, communication, innovation, and professional development, reflecting a strong commitment to lifelong learning.
+
+I enjoy connecting with people as much as I enjoy solving technical problems.
+
+---
+
+# 💼 Experience Highlights
+
+✔ Led Rapid Response Team of **8 engineers**
+
+✔ Reduced recurring production failures by **90%**
+
+✔ Built enterprise ASP.NET Core APIs
+
+✔ Developed Windows Services for industrial data synchronization
+
+✔ Built production dashboards for manufacturing analytics
+
+✔ Worked directly with clients during production incidents
+
+✔ Delivered commercial full-stack applications
+
+✔ Resolved critical live production issues under tight deadlines
+
+---
+
+# 🚀 Featured Projects
+
+## 🌿 Virudhi – AI-Based Herbal Medical Care Platform
+
+An intelligent healthcare platform helping users discover medicinal plants through AI-assisted recommendations.
+
+**Highlights**
+
+- ASP.NET Core Web API
+- React.js Frontend
+- SQL Server
+- JWT Authentication
+- Admin Dashboard
+- Personalized Recommendations
+
+---
+
+## 🐔 NeoPulx – Enterprise Poultry Management Platform
+
+A production-grade SaaS application developed for poultry farm management.
+
+**Highlights**
+
+- Multi-role Authentication
+- Real-time Dashboards
+- Farm Management
+- Production Deployment
+- REST APIs
+
+🌐 https://neopoulx.in
+
+---
+
+## 🚗 AR Auto Oasis
+
+Augmented Reality application for interactive vehicle visualization.
+
+**Built With**
+
+- Unity3D
+- PHP
+- JavaScript
+- Bootstrap
+
+---
+
+# 🛠 Tech Stack
+
+## Backend
+
+- ASP.NET Core
+- C#
+- REST APIs
+- Entity Framework
+- JWT Authentication
+- Windows Services
+
+## Frontend
+
+- React.js
+- Redux
+- JavaScript
+- HTML5
+- CSS3
+
+## Database
+
+- SQL Server
+- Stored Procedures
+- Query Optimization
+
+## Tools
+
+- Git
+- GitHub
+- Postman
+- Power BI
+- Visual Studio
+- VS Code
+
+---
+
+# 📚 Currently Learning
+
+- Microservices
+- Docker
+- Clean Architecture
+- System Design
+- Cloud Technologies
+- Design Patterns
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainpoornimar&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jainpoornimar&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainpoornimar&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainpoornimar&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Let's Connect
 
-📧 Email: **[jainpoornimar@gmail.com](mailto:jainpoornimar@gmail.com)**
+📧 **Email**
 
-💼 LinkedIn: **https://www.linkedin.com/in/poornima-r-jain**
+jainpoornimar@gmail.com
 
-🌐 Portfolio: **https://jainpoornimar.github.io/portfolio**
+💼 **LinkedIn**
 
-🐙 GitHub: **https://github.com/jainpoornimar**
+https://www.linkedin.com/in/poornima-r-jain
+
+🌐 **Portfolio**
+
+https://jainpoornimar.github.io/portfolio
+
+🐙 **GitHub**
+
+https://github.com/jainpoornimar
 
 ---
 
-⭐ *"Building reliable software, solving production problems, and continuously learning."*
+## 💭 My Philosophy
+
+> *"Great software is built through clean engineering, clear communication, continuous learning, and the willingness to solve problems that matter."*
